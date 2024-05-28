@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **MichaelYang-lyx/MichaelYang-lyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelYang-lyx&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MichaelYang-lyx&theme=react-dark)
+
