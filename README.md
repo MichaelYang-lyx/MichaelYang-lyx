@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi
-![Michaels's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelYang-lyx&show_icons=true&theme=radical)
+
 
 
 ![James Harden Buzzer Beater](https://github.com/MichaelYang-lyx/MichaelYang-lyx/blob/main/harden2.gif)
+![Michaels's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelYang-lyx&show_icons=true&theme=radical)
